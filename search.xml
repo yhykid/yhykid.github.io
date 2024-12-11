@@ -4,6 +4,19 @@
   
     
     <entry>
+      <title>写paper的小工具</title>
+      <link href="/2024/12/10/%E5%86%99%E8%AE%BA%E6%96%87%E7%9B%B8%E5%85%B3%E7%9A%84%E5%B8%AE%E5%8A%A9/"/>
+      <url>/2024/12/10/%E5%86%99%E8%AE%BA%E6%96%87%E7%9B%B8%E5%85%B3%E7%9A%84%E5%B8%AE%E5%8A%A9/</url>
+      
+        <content type="html"><![CDATA[<h1 id="一些自用小工具"><a href="#一些自用小工具" class="headerlink" title="一些自用小工具"></a>一些自用小工具</h1><ol><li><p><a href="https://github.com/ICRDoge/ICR-blender">Blender</a><br>这个用来做可视化效果会好看一些，链接是我写的教程。如果换作机械臂或者其他机器人的话，其原理是一样的，不过需要花费一些时间。<br><img src="/img/climb.png" alt="Blender效果图"></p></li><li><p><a href="https://www.remove.bg/">抠图网站</a><br>做framework的时候想加一些截取的图片，但是背景颜色和自己的底色差的太多，可以用抠图软件去掉背景。<br><img src="/img/%E6%8A%A0%E5%9B%BEex.png" alt="抠图效果"></p></li><li><p><a href="https://blog.csdn.net/weixin_42782150/article/details/104878759">Markdown语法大全</a><br>这个网站我随便在百度上找的，如果有更全更好看的可以麻烦告诉我一下，谢谢。</p></li><li><p><a href="https://github.com/dair-ai/ml-visuals">神经网络相关配图示例</a><br>这个也是我在网上随便找的，虽然这个仓库的示例比较卡通，不太符合我的风格，但是确实给我了很多思路。<br><img src="/img/MLvisual.png" alt="MLvisual"></p></li></ol>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>2024.11.7组会分享</title>
       <link href="/2024/11/03/2024-11-7%E7%BB%84%E4%BC%9A%E5%88%86%E4%BA%AB/"/>
       <url>/2024/11/03/2024-11-7%E7%BB%84%E4%BC%9A%E5%88%86%E4%BA%AB/</url>
